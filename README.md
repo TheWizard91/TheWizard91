@@ -1,6 +1,6 @@
 ### Hi there, here is what I am working on! 👋
 
-**TheWizard91/TheWizard91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**TheWizard91/TheWizard91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
