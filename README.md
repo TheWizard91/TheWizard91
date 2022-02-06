@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Artificial Intelligence and Data Science.
 - 🤔 I’m looking for help with ... in getting in AI and data science.
 - 💬 Ask me about ... anything we can colab with ^,^!
-- 📫 How to reach me: ... feel free to contact me [here](https://thewizard91.github.io/website/)
-- 😄 Pronouns: ... He/His/Him
+- 📫 How to reach me: ... feel free to contact me [here](https://thewizard91.github.io/website/).
+- 😄 Pronouns: ... He/His/Him.
 - ⚡ Fun fact: ... I speak fluent Italian.
