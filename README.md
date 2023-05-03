@@ -4,11 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... getting my Bachelor in Computer Science/ minor in Math
-- 🌱 I’m currently learning ... React.JS, I want to expands my wed dev skills. 
-- 👯 I’m looking to collaborate on ... Artificial Intelligence and Data Science.
-- 🤔 I’m looking for help with ... in getting in AI and data science.
-- 💬 Ask me about ... anything we can colab with ^,^!
-- 📫 How to reach me: ... feel free to contact me [here](https://emmanuelcodes.netlify.app/)).
-- 😄 Pronouns: ... He/His/Him.
-- ⚡ Fun fact: ... I speak fluent Italian.
+- 🔭 I’m currently getting my Master in Computer Science at Grove School of Engineering in City College of New York [CUNY](https://www.ccny.cuny.edu/engineering).
+- 👨‍🎓 I graduated in Computer Scince at [Lehman Collge](https://www.lehman.cuny.edu/).
+- 👨‍💻 I am proficient web development (frontend and backend alike) and mobile development (in android). 
+- 👯 I’m looking to collaborate on Artificial Intelligence and Data Science (it's hot right now).
+- 🤔 I’m looking for help with in getting in AI and data science because I am always looking to expand my skills.
+- 💬 Ask me about anything we can colab with ^,^!
+- 📫 How to reach me: feel free to contact me [here](https://emmanuelcodes.netlify.app/).
+- 😄 Pronouns: He/His/Him.
+- ⚡ Fun fact: I speak fluent Italian, love hiking and photography.
